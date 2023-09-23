@@ -1,0 +1,15 @@
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\bin\Debug\net6.0\C#_NEW.exe
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\bin\Debug\net6.0\C#_NEW.deps.json
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\bin\Debug\net6.0\C#_NEW.runtimeconfig.json
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\bin\Debug\net6.0\C#_NEW.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\bin\Debug\net6.0\C#_NEW.pdb
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\C#_NEW.csproj.AssemblyReference.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\C#_NEW.GeneratedMSBuildEditorConfig.editorconfig
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\C#_NEW.AssemblyInfoInputs.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\C#_NEW.AssemblyInfo.cs
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\C#_NEW.csproj.CoreCompileInputs.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\C#_NEW.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\refint\C#_NEW.dll
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\C#_NEW.pdb
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\C#_NEW.genruntimeconfig.cache
+E:\!ДОКУМЕНТЫ\ДИМА!\!Учеба 2023\3\C#_NEW\obj\Debug\net6.0\ref\C#_NEW.dll
